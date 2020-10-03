@@ -44,12 +44,12 @@
 <br />
 
 
-<details>
+
 ### GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kang-Kyunghun&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kang-Kyunghun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kang-Kyunghun&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com

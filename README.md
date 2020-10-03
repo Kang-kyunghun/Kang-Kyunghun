@@ -1,13 +1,12 @@
 # Hi there, I'm Kyunghun👋
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Traveler, Diver, liquor lover and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I love travel, liquor, diving and coding
+- 🌱 I’m currently learning Django, SQL, server to be back-end developer
+- 🥅 2020 Goals: To be junior back-end developer
+- ⚡ Fun fact: I love to watch Harry Potter with Cognac
 
 ### Connect with me:
 

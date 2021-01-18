@@ -40,7 +40,6 @@
 
   <img align="left" alt="Kang-kyunghun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kang-kyunghun&show_icons=true&hide_border=true" />
   <img align="left" alt="Kang-kyunghun's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-kyunghun&layout=compact" />
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kang-kyunghun)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://kang-kyunghun.github.io/Kyunghun/
 [instagram]: https://instagram.com/kgh239

@@ -4,8 +4,8 @@
 ## I'm a Traveler, Diver, liquor lover and Developer!!
 
 - 🔭 I love travel, liquor, diving and coding
-- 🌱 I’m currently learning Django, SQL, server to be back-end developer
-- 🥅 2020 Goals: To be junior back-end developer
+<!-- - 🌱 I’m currently learning Django, SQL, server to be back-end developer -->
+<!-- - 🥅 2020 Goals: To be junior back-end developer -->
 - ⚡ Fun fact: I love to watch Harry Potter with Cognac
 
 ### Connect with me:

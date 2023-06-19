@@ -16,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kang-Kyunghun&theme=flat&column=10)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kang-Kyunghun&theme=flat&column=9)](https://github.com/dkssud8150/)
 
 
 <br></br>

@@ -1,5 +1,7 @@
 
-<p align="center" width=100%><img src="https://www.canva.com/design/DAFmPnd9vqI/HRMJr6Gid0006rv6ztm19A/view?utm_content=DAFmPnd9vqI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" /></p>
+![](https://velog.velcdn.com/images/kgh239/post/3681aae4-8a86-40fb-8882-1bd1e421f65c/image.png)
+<br></br>
+<br></br>
 
 <h1 align="center">Hi 👋, I'm Jack (Kyunghun Kang)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
